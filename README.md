@@ -51,6 +51,14 @@ I'm a **Computer Science Engineering student** passionate about building modern,
   <sub>Languages • Frontend • Backend • Databases • Tools</sub>
 </p>
 
+<!-- with expressJS 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,mongodb,mysql,postgres,github,vscode&perline=13" alt="Tech Stack"/>
+</p>
+
+<p align="center">
+  <sub>Languages • Frontend • Backend • Databases • Tools</sub>
+</p> -->
 ---
 
 <!-- ========================================================= -->
@@ -85,18 +93,17 @@ I'm a **Computer Science Engineering student** passionate about building modern,
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=riyasavalia09&hide_border=true&background=0D1117&ring=0E75B6&fire=FF6B35&currStreakLabel=0E75B6"
-    alt="GitHub Contribution Streak"
-    width="80%"
+    src="https://streak-stats.demolab.com?user=riyasavalia09&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+    alt="GitHub Streak"
+    width="700"
   />
 </p>
-
 ---
 
 <!-- ========================================================= -->
 <!--                 CONTRIBUTION ACTIVITY                    -->
 <!-- ========================================================= -->
-
+<!--
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -110,6 +117,7 @@ I'm a **Computer Science Engineering student** passionate about building modern,
 </p>
 
 ---
+-->
 
 <!-- ========================================================= -->
 <!--                    FEATURED PROJECTS                       -->
